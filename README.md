@@ -34,3 +34,6 @@ https://slproweb.com/products/Win32OpenSSL.html
 Пример: C:\Program Files\OpenSSL\bin  
   
 Открыть командную строку (новое окно) и прописать команду openssl version, если всё сделано правильно, то openssl покажет установленную версию.  
+
+Далее генерируем приватный ключ в необходивой директории
+openssl genrsa -out key.pem 4096
