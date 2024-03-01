@@ -11,7 +11,7 @@ https://www.feistyduck.com/library/openssl-cookbook/online/
 https://wiki.openssl.org/index.php/Binaries  
 https://slproweb.com/products/Win32OpenSSL.html  
 
-Расширения файлов  
+### Расширения файлов  
 .pem - хранение SSL сертификатов, приватных и публичных ключей. Unix / Windows. Base64 ASCII  
 
 .crt / .cer - хранение публичного ключа SSL/TLS сертификата. Unix системы - .crt, Windows - .cer. Base64 ASCII  
