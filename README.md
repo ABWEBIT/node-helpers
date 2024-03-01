@@ -19,9 +19,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 Скачать последнюю версию Win64 OpenSSL Light (~5Mb) и установить.  
 При установке будет задан вопрос, где расположить DLL файлы?  
 Расположить их можно и в директории системы, и в папке bin внутри папки с установленной OpenSSL.  
-```
 https://slproweb.com/products/Win32OpenSSL.html  
-```
+
 Чтобы OpenSSL работал из любого места, надо добавить путь к программе в Environment Variables.  
 
 ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
