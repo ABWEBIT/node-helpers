@@ -42,3 +42,7 @@ openssl genrsa -out key.pem 4096
 openssl req -new -key key.pem -out csr.pem  
 ```
 
+Генерируем сертификат, кол-во дней можно сделать больше.
+```
+openssl x509 -req -days 365 -in csr.pem -signkey key.pem -out crt.pem
+```
