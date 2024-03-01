@@ -11,7 +11,7 @@ https://www.feistyduck.com/library/openssl-cookbook/online/
 https://slproweb.com/products/Win32OpenSSL.html  
 
 Расширения файлов  
-.pem - хранение SSL сертификатов, приватных и публичных ключей. Файлы .crt часто используются в системах на базе Unix. Base64 ASCII  
+.pem - хранение SSL сертификатов, приватных и публичных ключей. Файлы .pem часто используются в системах на базе Unix. Base64 ASCII  
 
 .crt - хранение публичного ключа SSL/TLS сертификата. Файлы .crt поддерживаются разными платформами. Base64 ASCII  
 
