@@ -33,6 +33,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 openssl genrsa -out key.pem 4096  
 
+-
+
 Далее генерируем "запрос на подпись сертификата" (Certificate signing request / CSR)  
 При генерации файла будут заданы вопросы, на них можно ответить, а можно не отвечать и пропустить, создание пароля тоже можно пропустить.  
 
