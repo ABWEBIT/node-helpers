@@ -29,8 +29,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
 В разделе System Variables найти строку Path нажать Edit.  
-Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.
-Пример: C:\Program Files\OpenSSL\bin
+Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.  
+Пример: C:\Program Files\OpenSSL\bin  
   
   
 
