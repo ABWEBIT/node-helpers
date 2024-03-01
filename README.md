@@ -21,7 +21,9 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 ### Инструкция по созданию самозаверенного SSL сертификата  
 
-Скачать последнюю версию Win64 OpenSSL Light и установить (DLL можно как в систему, так в /bin папку)  
+Скачать последнюю версию Win64 OpenSSL Light и установить.  
+Расположить DLL файлы можно в директории системы, и в папке /bin.  
 https://slproweb.com/products/Win32OpenSSL.html  
 
+  
 
