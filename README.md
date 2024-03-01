@@ -21,7 +21,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 Расположить их можно и в директории системы, и в папке bin внутри папки с установленной OpenSSL.  
 https://slproweb.com/products/Win32OpenSSL.html  
 
-Чтобы OpenSSL работал из любого места, надо добавить путь к программе в Environment Variables.  
+Чтобы OpenSSL работал из любого места, надо добавить путь к папке OpenSSL в Environment Variables.  
 
 ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
 В разделе System Variables найти строку Path нажать Edit.  
