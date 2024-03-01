@@ -17,3 +17,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 .crt / .cer - хранение публичного ключа SSL/TLS сертификата. Unix системы - .crt, Windows - .cer. Base64 ASCII  
 
 .key - хранение приватных ключей SSL сертификата. Файлы .key могут быть защищены паролем для дополнительной безопасности.  
+
+
+Инструкция по созданию самозаверенного SSL сертификата  
+Скачать Win64 OpenSSL v3.2.1 Light  
+https://slproweb.com/products/Win32OpenSSL.html  
