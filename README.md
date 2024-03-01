@@ -7,8 +7,8 @@ https://www.openssl.org/
 Бесплатная книжка  
 https://www.feistyduck.com/library/openssl-cookbook/online/  
 
-Установочные файлы OpenSSL для Windows  
-https://slproweb.com/products/Win32OpenSSL.html  
+Ссылки на сторонние сайты с установочными файлами OpenSSL для Windows  
+https://wiki.openssl.org/index.php/Binaries  
 
 Расширения файлов  
 .pem - хранение SSL сертификатов, приватных и публичных ключей. Файлы .pem часто используются в системах на базе Unix. Base64 ASCII  
