@@ -7,7 +7,7 @@ https://www.openssl.org/
 Бесплатная книжка  
 https://www.feistyduck.com/library/openssl-cookbook/online/  
 
-Ссылки на сторонние сайты с установочными файлами OpenSSL для Windows  
+Ссылки на сайты с установочными файлами OpenSSL для Windows  
 https://wiki.openssl.org/index.php/Binaries  
 
 Расширения файлов  
