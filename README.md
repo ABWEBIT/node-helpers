@@ -1,6 +1,6 @@
 # Node-Helpers  
 
-### OpenSSL
+## OpenSSL
 Официальный сайт  
 https://www.openssl.org/  
 
@@ -11,12 +11,12 @@ https://www.feistyduck.com/library/openssl-cookbook/online/
 https://wiki.openssl.org/index.php/Binaries  
 https://slproweb.com/products/Win32OpenSSL.html  
 
-### Заметки  
+## Заметки  
 Файлы с расширением .pem являются распространённым хранилищем SSL сертификатов, приватных и публичных ключей. Unix / Windows. Base64 ASCII  
 
 ---
 
-### Инструкция по созданию самозаверенного SSL сертификата  
+## Инструкция по созданию самозаверенного SSL сертификата  
 
 Скачать последнюю версию Win64 OpenSSL Light (~5Mb) и установить.  
 Расположить DLL файлы можно и в директории системы, и в папке bin внутри папки с установленной OpenSSL.  
@@ -32,10 +32,10 @@ https://slproweb.com/products/Win32OpenSSL.html
 Открыть командную строку (новое окно) и прописать команду openssl version, если всё сделано правильно, то openssl покажет установленную версию.  
 
 Далее открываем командную строку или терминал в директории для сертификатов и генерируем приватный ключ  
-openssl genrsa -out key.pem 4096  
+### openssl genrsa -out key.pem 4096  
 
 Далее генерируем "запрос на подпись сертификата" (Certificate signing request / CSR)  
 При генерации файла будут заданы вопросы, на них можно ответить, а можно не отвечать и пропустить, создание пароля тоже можно пропустить.  
-openssl req -new -key key.pem -out csr.pem  
+### openssl req -new -key key.pem -out csr.pem  
 
 
