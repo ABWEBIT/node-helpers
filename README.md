@@ -25,5 +25,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 Расположить DLL файлы можно как в директории системы, так и в папке /bin.  
 https://slproweb.com/products/Win32OpenSSL.html  
 
+Чтобы OpenSSL работал из любой папки, надо добавить путь к программе в Environment Variables.  
+1. ПКМ по меню Пуск -> System -> Advanced system settings -> Environment Variables
+1.1 В разделе System Variables найти строку Path нажать Edit и добавить новую запись, путь к папке bin, в  
   
 
