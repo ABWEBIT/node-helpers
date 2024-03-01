@@ -14,7 +14,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 ## Заметки  
 Файлы с расширением .pem являются распространённым хранилищем SSL сертификатов, приватных и публичных ключей. Unix / Windows. Base64 ASCII  
 
-## Cоздание самозаверенного SSL сертификата в Windows 
+## Cоздание самозаверенного SSL сертификата в Windows 11
 
 Скачать последнюю версию Win64 OpenSSL Light (~5Mb) и установить.  
 При установке будет задан вопрос, где расположить DLL файлы?  
@@ -22,7 +22,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 https://slproweb.com/products/Win32OpenSSL.html  
 
 Чтобы OpenSSL работал из любого места, надо добавить путь к папке OpenSSL в Environment Variables.  
-
+  
 ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
 В разделе System Variables найти строку Path нажать Edit.  
 Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.  
