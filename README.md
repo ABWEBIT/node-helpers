@@ -12,7 +12,7 @@ https://wiki.openssl.org/index.php/Binaries
 https://slproweb.com/products/Win32OpenSSL.html  
 
 Расширения файлов  
-.pem - хранение SSL сертификатов, приватных и публичных ключей. Файлы .pem часто используются в системах на базе Unix. Base64 ASCII  
+.pem - хранение SSL сертификатов, приватных и публичных ключей. Unix / Windows. Base64 ASCII  
 
 .crt / .cer - хранение публичного ключа SSL/TLS сертификата. Unix системы - .crt, Windows - .cer. Base64 ASCII  
 
