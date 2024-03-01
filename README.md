@@ -31,12 +31,12 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 Открываем командную строку в нужной нам директории.  
 
-Генерируем "приватный ключ".  
+Генерируем "приватный ключ" (Private Key).  
 ```
 openssl genrsa -out key.pem 4096  
 ```
 
-Генерируем "запрос на подпись" (Certificate signing request / CSR)  
+Генерируем "запрос на подпись" (Certificate signing request / CSR).  
 При генерации будут заданы вопросы, их можно пропустить, создание пароля тоже можно пропустить.  
 ```
 openssl req -new -key key.pem -out csr.pem  
