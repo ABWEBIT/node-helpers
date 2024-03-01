@@ -27,7 +27,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 Чтобы OpenSSL работал из любой папки, надо добавить путь к программе в Environment Variables.  
 
-ПКМ по меню Пуск -> System -> Advanced system settings -> Environment Variables.  
+ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
 В разделе System Variables найти строку Path нажать Edit.  
 Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.
 Пример: C:\Program Files\OpenSSL\bin
