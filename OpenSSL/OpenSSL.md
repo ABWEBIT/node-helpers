@@ -2,7 +2,7 @@
 Официальный сайт  
 https://www.openssl.org/  
 
-Ссылки на сайты с установочными файлами OpenSSL для Windows  
+Сайты с инсталляторами OpenSSL для Windows  
 https://wiki.openssl.org/index.php/Binaries  
 https://slproweb.com/products/Win32OpenSSL.html  
 
