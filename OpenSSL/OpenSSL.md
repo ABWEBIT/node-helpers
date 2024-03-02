@@ -29,7 +29,9 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 Обратную косую черту в конце пути добавлять не надо.  
 Важно проверить у себя путь к папке, он может быть другой.  
 Пример: C:\Program Files\OpenSSL\bin  
-  
+
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/path.jpg?raw=true)
+
 Открыть командную строку (новое окно) и прописать openssl version, если всё хорошо, то будет показана версия openssl.  
 
 Открываем командную строку в нужной нам директории.  
