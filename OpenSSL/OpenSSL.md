@@ -11,6 +11,8 @@ https://wiki.openssl.org/index.php/Binaries
 
 ## Cоздание самозаверенного SSL сертификата в Windows 11
 
+### Установка OpenSSL
+
 Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
 При установке будет предложен выбор с вариантами расположения DLL файлов.  
 Выбрать вариант с расположением DLL файлов в папке bin.  
@@ -32,7 +34,7 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/path.jpg?raw=true)
 
-Открыть командную строку (новое окно) и прописать openssl version, если всё хорошо, то будет показана версия openssl.  
+После внесённых изменений в Environment Variables открыть новую командную строку и прописать команду openssl version, если всё хорошо, будет показана версия установленной openssl.  
 
 Открываем командную строку в нужной нам директории.  
 
