@@ -12,7 +12,8 @@ https://wiki.openssl.org/index.php/Binaries
 https://slproweb.com/products/Win32OpenSSL.html  
 
 ## Заметки  
-Файлы с расширением .pem являются распространённым хранилищем SSL сертификатов, приватных и публичных ключей. Unix / Windows. Base64 ASCII  
+Файлы с расширением .pem являются распространённым типом файлов для хранения: приватных ключей, публичных ключей, SSL сертификатов.  
+Unix / Windows. Base64 ASCII  
 
 ## Cоздание самозаверенного SSL сертификата в Windows 11
 
