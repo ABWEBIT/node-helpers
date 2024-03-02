@@ -13,7 +13,7 @@ https://wiki.openssl.org/index.php/Binaries
 
 Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
 При установке будет предложено два варианта расположения DLL файлов.  
-Рекомендую выбрать вариант с расположением файлов в папке bin.
+Рекомендую выбрать вариант с расположением файлов в папке bin.  
 https://slproweb.com/products/Win32OpenSSL.html  
 
 Чтобы OpenSSL работал из любого места, надо добавить путь к папке OpenSSL в Environment Variables.  
