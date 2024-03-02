@@ -2,9 +2,8 @@
 Официальный сайт  
 https://www.openssl.org/  
 
-Сайты с инсталляторами OpenSSL для Windows  
-https://wiki.openssl.org/index.php/Binaries  
-https://slproweb.com/products/Win32OpenSSL.html  
+Сайты с инсталляторами OpenSSL  
+https://wiki.openssl.org/index.php/Binaries   
 
 ## Заметки  
 Файлы с расширением .pem являются распространённым типом файлов предназначенным для хранения: приватных и публичных ключей, SSL сертификатов.  
