@@ -2,7 +2,7 @@
 Официальный сайт  
 https://www.openssl.org/  
 
-Ссылки на сайты с инсталляторами OpenSSL  
+Wiki с cсылками на сайты с инсталляторами OpenSSL  
 https://wiki.openssl.org/index.php/Binaries   
 
 ## Заметки  
