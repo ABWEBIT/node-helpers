@@ -16,10 +16,11 @@ https://wiki.openssl.org/index.php/Binaries
 Рекомендую выбрать вариант с расположением DLL файлов в папке bin.  
 https://slproweb.com/products/Win32OpenSSL.html  
 
-Чтобы OpenSSL работал из любого места, надо добавить путь к папке OpenSSL в Environment Variables.  
-  
-ПКМ по меню Start -> System -> Advanced system settings -> Environment Variables.  
-В разделе System Variables найти строку Path нажать Edit.  
+Чтобы OpenSSL работал из любого места в системе, надо добавить путь к папке OpenSSL в Environment Variables.
+Открыть командную строку от имени Админа и ввести команду  
+```
+rundll32.exe sysdm.cpl,EditEnvironmentVariables
+```
 Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.  
 Пример: C:\Program Files\OpenSSL\bin  
   
