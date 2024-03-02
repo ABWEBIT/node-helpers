@@ -6,10 +6,10 @@ https://www.openssl.org/
 https://wiki.openssl.org/index.php/Binaries   
 
 ## Файлы и расширения 
-Файлы (ASCII) с расширением .pem  
+Файлы с расширением .pem  
 -> универсальные и подходят для Unix / Windows систем  
 -> предназначены для хранения SSL сертификатов, приватных и публичных ключей  
--> кодируются в Base64  
+-> кодируются в Base64 ASCII  
 
 ## Установка OpenSSL в Windows 11
 
