@@ -9,9 +9,7 @@ https://wiki.openssl.org/index.php/Binaries
 Файлы с расширением .pem универсальные и предназначены для хранения: приватных и публичных ключей, SSL сертификатов.  
 Подходит для Unix / Windows систем. Кодировка файла: Base64 ASCII  
 
-## Cоздание самозаверенного SSL сертификата в Windows 11
-
-### Установка OpenSSL
+## Установка OpenSSL в Windows 11
 
 Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
 При установке будет предложен выбор с вариантами расположения DLL файлов.  
@@ -35,6 +33,8 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/path.jpg?raw=true)
 
 После внесённых изменений в Environment Variables открыть новую командную строку и прописать команду openssl version, если всё хорошо, будет показана версия установленной openssl.  
+
+## Cоздание самозаверенного SSL сертификата
 
 Открываем командную строку в нужной нам директории.  
 
