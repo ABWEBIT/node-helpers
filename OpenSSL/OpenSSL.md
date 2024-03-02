@@ -24,7 +24,7 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/env.jpg?raw=true)
 
-В нижней части появившегося окна, в блоке - System variables, открыть пункт Path.  
+В появившемся окне в блоке System variables открыть пункт Path.  
 Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.  
 Обратную косую черту в конце пути добавлять не надо.  
 Важно проверить у себя путь к папке, он может быть другой.  
