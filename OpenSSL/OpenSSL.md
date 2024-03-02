@@ -22,7 +22,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 rundll32.exe sysdm.cpl,EditEnvironmentVariables
 ```
 
-https://raw.githubusercontent.com/ABWEBIT/Node-Helpers/main/OpenSSL/images/env.jpg
+[https://raw.githubusercontent.com/ABWEBIT/Node-Helpers/main/OpenSSL/images/env.jpg](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/env.jpg?raw=true)
 
 Добавить новую строку с указанием пути к папке bin внутри папки с установленной OpenSSL.  
 Пример: C:\Program Files\OpenSSL\bin  
