@@ -32,7 +32,7 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/path.jpg?raw=true)
 
-После внесённых изменений в Environment Variables открыть новую командную строку и прописать команду openssl version, если всё хорошо, будет показана версия установленной openssl.  
+После внесённых изменений в Environment Variables открыть новую командную строку и прописать openssl version, если всё хорошо, будет показана версия установленного openssl.  
 
 ## Cоздание самозаверенного SSL сертификата
 
