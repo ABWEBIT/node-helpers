@@ -100,26 +100,33 @@ npm start
 ### Локальные модули
 
 Список всех модулей
+```
 nmp list
-
+```
 Поиск устаревших модулей
+```
 npm outdated
-
+```
 Обновление конкретного устаревшего модуля с сохраненем версии в package.json
+```
 npm update <package_name> --save
-
+```
 Обновление всех устаревших модулей с сохранением версий в package.json
+```
 npm update --save
+```
 
-
-
-Глобальные модули
+### Глобальные модули
 
 Список всех модулей
-nmp list -g
-
+```
+nmp list --global
+```
 Поиск устаревших модулей
-npm outdated -g
-
+```
+npm outdated --global
+```
 Обновление конкретного устаревшего модуля
-npm update -g <package_name>
+```
+npm update --global <package_name>
+```
