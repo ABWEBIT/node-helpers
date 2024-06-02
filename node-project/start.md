@@ -92,5 +92,5 @@ server.listen(port, hostname, () => {
 ```
 npm start
 ```
-Если всё хорошо, то в терминале не будет сообщений о ошибках, а в браузере по адресу http://127.0.0.1:3000/ будет написано Hello World
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
+Если всё хорошо, то в терминале не будет сообщений о ошибках, а в браузере будет написано Hello World по адресу http://127.0.0.1:3000/
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/server.jpg?raw=true)
