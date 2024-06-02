@@ -25,6 +25,7 @@ npm install --global nodemon
 ```
 npm nodemon --version
 ```
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
 
 ### Расширения файлов
 .js  - стандартное расширение JS, подходит для всего.  
