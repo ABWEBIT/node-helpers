@@ -30,9 +30,22 @@ npm nodemon --version
 Далее надо открыть файл package.json и внести следующие изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
 - в блоке "scripts" добавить строку "start": "nodemon index.mjs"
-
-
 ```
+Оригинал
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+После изменений
 {
   "name": "site",
   "version": "1.0.0",
