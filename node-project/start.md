@@ -34,6 +34,22 @@ npm nodemon --version
 ```
 в блоке "scripts" добавить строку "start": "nodemon index.mjs"
 ```
+
+```
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+```
 ### П файлов
 .js  - стандартное расширение JS, подходит для всего.  
 .cjs - расширение для модульных систем JS, используется в серверных средах. (module.exports)  
