@@ -71,19 +71,22 @@ npm nodemon --version
 .cjs - расширение для модульных систем JS, используется в серверных средах. (module.exports)  
 .mjs - расширение для модульных систем JS со стандартом ECMAScript, используется в серверных средах. (import / export)  
 
-Далее надо создать файл index.mjs в папке проекта и прописать там код.
+Далее надо создать файл index.mjs в папке проекта и прописать в нём код запуска простого http сервера.  
+Код стандартный, его разбирать не надо, можно взять непосредственно с сайта NodeJS, сейчас
 
 ```
-// server.mjs
 import { createServer } from 'node:http';
+
+const hostname = '127.0.0.1';
+const port = 3000;
+
 const server = createServer((req, res) => {
-  res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.end('Hello World!\n');
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World');
 });
-// starts a simple http server locally on port 3000
-server.listen(3000, '127.0.0.1', () => {
-  console.log('Listening on 127.0.0.1:3000');
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
 });
-// run with `node server.mjs`
 ```
 
