@@ -95,3 +95,31 @@ npm start
 Если в терминале не будет сообщений о ошибках, а в браузере по адресу http://127.0.0.1:3000/ появится Hello World, то это будет значить, что запуск прошёл успешно.
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/server.jpg?raw=true)
+
+## Полезные команды NPM
+### Локальные модули
+
+Список всех модулей
+nmp list
+
+Поиск устаревших модулей
+npm outdated
+
+Обновление конкретного устаревшего модуля с сохраненем версии в package.json
+npm update <package_name> --save
+
+Обновление всех устаревших модулей с сохранением версий в package.json
+npm update --save
+
+
+
+Глобальные модули
+
+Список всех модулей
+nmp list -g
+
+Поиск устаревших модулей
+npm outdated -g
+
+Обновление конкретного устаревшего модуля
+npm update -g <package_name>
