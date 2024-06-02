@@ -116,7 +116,7 @@ npm update <package_name> --save
 npm update --save
 ```
 
-### .
+###  
 
 Список всех глобальных модулей
 ```
