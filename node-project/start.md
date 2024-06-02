@@ -30,8 +30,9 @@ npm nodemon --version
 Далее надо открыть файл package.json и внести следующие изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
 - в блоке "scripts" добавить строку "start": "nodemon index.mjs"
+
+### Оригинал
 ```
-Оригинал
 {
   "name": "site",
   "version": "1.0.0",
@@ -45,8 +46,9 @@ npm nodemon --version
   "description": ""
 }
 ```
+
+### После изменений
 ```
-После изменений
 {
   "name": "site",
   "version": "1.0.0",
