@@ -44,7 +44,8 @@ npm nodemon --version
   "license": "ISC",
   "description": ""
 }
-
+```
+```
 После изменений
 {
   "name": "site",
