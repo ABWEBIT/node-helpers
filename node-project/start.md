@@ -97,6 +97,7 @@ npm start
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/server.jpg?raw=true)
 
 ## Полезные команды NPM
+### Локальные модули
 Список всех модулей
 ```
 nmp list
@@ -114,8 +115,7 @@ npm update <package_name> --save
 npm update --save
 ```
 
----
-
+### Глобальные модули
 Список всех глобальных модулей
 ```
 nmp list --global
