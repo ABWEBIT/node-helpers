@@ -27,12 +27,14 @@ npm nodemon --version
 ```
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
 
-### Расширения файлов
+Далее надо открыть файл package.json и внести следующие изменения:  
+```
+в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
+```
+### П файлов
 .js  - стандартное расширение JS, подходит для всего.  
 .cjs - расширение для модульных систем JS, используется в серверных средах. (module.exports)  
 .mjs - расширение для модульных систем JS со стандартом ECMAScript. (import / export)  
 
 В папке с проектом создать файл index.mjs  
-
-Расширения могут быть и другие, например .js .cjs
 
