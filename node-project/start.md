@@ -9,11 +9,11 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.jpg?raw=true)
 
-Открытие терминала
+Открыть терминал
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.jpg?raw=true)
 
-В терминале редактора выполнить команду инициализации:  
+В терминале выполнить команду инициализации:  
 ```
 npm init --yes
 ```
