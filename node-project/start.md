@@ -5,6 +5,7 @@
 Создать папку под проект и открыть редактор кода кликнув по папке правой кнопкой мышки, и выбрав пункт "Open with Code".
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.jpg?raw=true)
+
 В терминале редактора выполнить команду инициализации:  
 ```
 npm init --yes
