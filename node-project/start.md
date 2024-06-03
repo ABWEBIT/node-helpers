@@ -82,6 +82,8 @@ npm nodemon --version
 
 Добавив строку "start": "nodemon index.mjs" мы сделали запуск nodemon командой npm start, теперь о Nodemon можно забыть.
 
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/package.webp?raw=true)
+
 Типы расширений  
 .js  - стандартное расширение JS, подходит для всего.  
 .cjs - расширение для модульных систем JS, используется в серверных средах. (module.exports)  
