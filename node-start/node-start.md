@@ -1,4 +1,4 @@
-## Подготовка NodeJS для разработки веб-приложений в Windows 11 с помощью Visual Studio Code
+## Подготовка NodeJS для работы в Windows 11 с помощью Visual Studio Code
 
 Скачать и установить Visual Studio Code. https://code.visualstudio.com/  
 Никаких настроек делать не надо, просто установить.
