@@ -15,6 +15,12 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
 
+Проверить доступность NodeJS командой проверки версии
+```
+node --version
+```
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/node.webp?raw=true)
+
 В терминале выполнить команду инициализации  
 ```
 npm init --yes
