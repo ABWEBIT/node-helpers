@@ -22,7 +22,7 @@ node --version
 ```
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/node.webp?raw=true)
 
-В терминале выполнить команду инициализации.
+Выполнить команду инициализации.
 ```
 npm init --yes
 ```
