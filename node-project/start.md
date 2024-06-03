@@ -7,7 +7,7 @@
 В процессе установки ничего менять не надо, все нужные компоненты уже выбраны.  
 
 Создать папку под проект.  
-Открыть VS Code кликнув по папке правой кнопкой мышки, и выбрав пункт "Open with Code".
+Открыть VS Code, кликнуть по папке проекта правой кнопкой мышки и выбрать пункт "Open with Code".
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/code.webp?raw=true)
 
