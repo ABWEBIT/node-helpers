@@ -1,4 +1,4 @@
-## Подготовка и настройка NodeJS для работы в Windows (простой способ)
+## Подготовка и настройка NodeJS для работы в Windows при помощи Visual Studio Code
 
 Скачать и установить Visual Studio Code. https://code.visualstudio.com/  
 Никаких специальных настроек делать не надо, просто установить.
