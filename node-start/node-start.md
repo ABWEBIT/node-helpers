@@ -15,7 +15,7 @@
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/node-tools.webp?raw=true)
 
 Создать папку под проект.  
-Открыть VS Code, кликнув по папке проекта правой кнопкой мышки и выбрать пункт "Open with Code".
+Кликнуть по папке проекта правой кнопкой мышки и выбрать пункт "Open with Code".
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/vscode.webp?raw=true)
 
