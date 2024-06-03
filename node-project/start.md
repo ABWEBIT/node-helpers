@@ -80,7 +80,7 @@ npm nodemon --version
 }
 ```
 
-Добавив строку "start": "nodemon index.mjs" мы сделали запуск nodemon командой npm start, теперь о nodemon можно забыть.
+Добавив строку "start": "nodemon index.mjs" мы сделали запуск nodemon командой npm start, теперь о Nodemon можно забыть.
 
 Типы расширений  
 .js  - стандартное расширение JS, подходит для всего.  
