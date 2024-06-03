@@ -9,7 +9,7 @@
 Создать папку под проект.  
 Открыть VS Code, кликнув по папке проекта правой кнопкой мышки и выбрав пункт "Open with Code".
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/code.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.webp?raw=true)
 
 В редакторе кода открыть терминал
 
