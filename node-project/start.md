@@ -35,7 +35,7 @@ npm install --global nodemon
 ```
 npm nodemon --version
 ```
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.webp?raw=true)
 
 Открыть файл package.json и внести изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
