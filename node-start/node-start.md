@@ -119,7 +119,7 @@ server.listen(port, hostname, () => {
 ```
 npm start
 ```
-Если в терминале не будет сообщений о ошибках, а в браузере по адресу http://127.0.0.1:3000/ появится Hello World, то это означает, что запуск прошёл успешно.
+Если в терминале нет сообщений о ошибках, а в браузере по адресу http://127.0.0.1:3000/ есть Hello World, то это означает, что запуск прошёл успешно.
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/server.webp?raw=true)
 
