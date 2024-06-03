@@ -15,7 +15,7 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
 
-Проверить доступность NodeJS командой проверки версии.
+Проверить доступность NodeJS введя команду проверки версии в терминале.
 ```
 node --version
 ```
