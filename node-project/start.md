@@ -13,7 +13,7 @@
 
 В редакторе кода открыть терминал
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.jpg?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
 
 В терминале выполнить команду инициализации  
 ```
