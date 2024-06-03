@@ -85,7 +85,7 @@ npm nodemon --version
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/package.webp?raw=true)
 
 ## Типы расширений  
-- .js стандартное расширение JS, подходит для всего.  
+-- .js стандартное расширение JS, подходит для всего.  
 - .cjs расширение для модульных систем JS, используется в серверных средах. (module.exports)  
 - .mjs расширение для модульных систем JS со стандартом ECMAScript, используется в серверных средах. (import / export)  
 
