@@ -23,9 +23,10 @@ npm init --yes
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/init.jpg?raw=true)
 
-Установить Nodemon. https://github.com/remy/nodemon  
-
 Nodemon - это инструмент, который автоматически перезапускает запущенное ранее приложение NodeJS при обнаружении изменений в файлах проекта.  
+https://github.com/remy/nodemon  
+
+Установить Nodemon выполнив команду установки
 ```
 npm install --global nodemon
 ```
