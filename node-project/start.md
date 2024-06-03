@@ -127,7 +127,6 @@ nmp list
 ```
 nmp list --global
 ```
-
 Поиск устаревших локальных пакетов
 ```
 npm outdated
@@ -136,7 +135,6 @@ npm outdated
 ```
 npm outdated --global
 ```
-
 Обновление конкретного устаревшего локального пакета с сохранением версии в package.json
 ```
 npm update <package_name> --save
@@ -145,12 +143,10 @@ npm update <package_name> --save
 ```
 npm update --global <package_name>
 ```
-
 Обновление всех устаревших локальных пакетов с сохранением версий в package.json
 ```
 npm update --save
 ```
-
 Удаление конкретного пакета, файл package.json будет автоматически обновлён
 ```
 npm uninstall <package_name>
