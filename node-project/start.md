@@ -21,7 +21,7 @@ npm init --yes
 ```
 Приписка --yes автоматически ответит на все вопросы в процессе инициализации, а дополнительную информацию можно будет внести позже в файл package.json, который будет создан по окончанию процесса, он отвечает за хранение информации о проекте, модулях, плагинах, связках и тд.  
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/init.jpg?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/init.webp?raw=true)
 
 Nodemon - это инструмент, который автоматически перезапускает запущенное ранее приложение NodeJS при обнаружении изменений в файлах проекта. https://github.com/remy/nodemon  
 
