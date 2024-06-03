@@ -1,6 +1,7 @@
 ## Подготовка рабочего пространства NodeJS в Windows с помощью Visual Studio Code
 
-Скачать и установить Visual Studio Code. https://code.visualstudio.com/
+Скачать и установить Visual Studio Code. https://code.visualstudio.com/  
+Никаких специальных настроек делать не надо, просто установить.
 
 Скачать NodeJS (LTS) и установить. https://nodejs.org/  
 В процессе установки ничего менять не надо, все нужные компоненты уже выбраны.  
