@@ -117,7 +117,7 @@ npm start
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/server.webp?raw=true)
 
 ## Полезные команды NPM
-<package_name> - заменяется названием пакета, без посторонних знаков, например nodemoon.
+<package_name> - заменяется названием пакета, без посторонних символов, например nodemoon.
 
 Список всех локальных пакетов
 ```
@@ -135,7 +135,7 @@ npm outdated
 ```
 npm outdated --global
 ```
-Обновление конкретного устаревшего локального пакета с сохранением версии в package.json
+Обновление конкретного устаревшего локального пакета, файл package.json будет автоматически обновлён
 ```
 npm update <package_name> --save
 ```
@@ -143,9 +143,13 @@ npm update <package_name> --save
 ```
 npm update --global <package_name>
 ```
-Обновление всех устаревших локальных пакетов с сохранением версий в package.json
+Обновление всех устаревших локальных пакетов, файл package.json будет автоматически обновлён
 ```
 npm update --save
+```
+Обновление всех устаревших глобальных пакетов
+```
+npm update --global
 ```
 Установка конкретного пакета, файл package.json будет автоматически обновлён
 ```
@@ -153,7 +157,7 @@ npm install <package_name>
 ```
 Установка конкретного пакета, как глобальный пакет, никаких изменений в package.json
 ```
-npm install --global nodemon
+npm install --global <package_name>
 ```
 Удаление конкретного пакета, файл package.json будет автоматически обновлён
 ```
