@@ -36,7 +36,7 @@ npm nodemon --version
 ```
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
 
-Открыть файл package.json и внести следующие изменения:  
+Открыть файл package.json и внести изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
 - в блоке "scripts" добавить строку "start": "nodemon index.mjs"
 
