@@ -15,7 +15,7 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.jpg?raw=true)
 
-В терминале выполнить команду инициализации:  
+В терминале выполнить команду инициализации  
 ```
 npm init --yes
 ```
