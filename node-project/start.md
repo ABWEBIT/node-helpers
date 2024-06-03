@@ -11,11 +11,11 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.webp?raw=true)
 
-В редакторе кода открыть терминал.
+В редакторе кода открыть терминал. Все последующие команды будем вводить в терминале.
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
 
-Проверить доступность NodeJS выполнив команду проверки версии в терминале.
+Проверить доступность NodeJS можно командой проверки версии.
 ```
 node --version
 ```
@@ -37,7 +37,7 @@ npm install --global nodemon
 ```
 Приписка --global установит данный инструмент как глобальный пакет, который будет доступен во всех папках / проектах.  
 
-Проверить доступность инструмента можно командой проверки версии.  
+Проверить доступность Nodemon можно командой проверки версии.  
 ```
 npm nodemon --version
 ```
