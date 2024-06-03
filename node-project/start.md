@@ -8,7 +8,7 @@
 
 Создать папку под проект и открыть редактор кода кликнув по папке правой кнопкой мышки, и выбрав пункт "Open with Code".
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.jpg?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/code.jpg?raw=true)
 
 Открыть терминал
 
