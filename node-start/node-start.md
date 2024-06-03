@@ -22,7 +22,7 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/terminal.webp?raw=true)
 
-Проверить доступность NodeJS можно командой с запросом версии.
+Проверить доступность NodeJS можно командой с запросом версии
 ```
 node --version
 ```
