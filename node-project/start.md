@@ -10,7 +10,7 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/code.jpg?raw=true)
 
-Открыть терминал
+В редакторе кода открыть терминал
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.jpg?raw=true)
 
