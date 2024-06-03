@@ -147,6 +147,14 @@ npm update --global <package_name>
 ```
 npm update --save
 ```
+Установка конкретного пакета, файл package.json будет автоматически обновлён
+```
+npm install <package_name>
+```
+Установка конкретного пакета, как глобальный пакет, никаких изменений в package.json
+```
+npm install --global nodemon
+```
 Удаление конкретного пакета, файл package.json будет автоматически обновлён
 ```
 npm uninstall <package_name>
