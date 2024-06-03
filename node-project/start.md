@@ -6,7 +6,8 @@
 Скачать NodeJS (LTS) и установить. https://nodejs.org/  
 В процессе установки ничего менять не надо, все нужные компоненты уже выбраны.  
 
-Создать папку под проект и открыть редактор кода кликнув по папке правой кнопкой мышки, и выбрав пункт "Open with Code".
+Создать папку под проект.  
+Открыть VS Code кликнув по папке правой кнопкой мышки, и выбрав пункт "Open with Code".
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/code.jpg?raw=true)
 
