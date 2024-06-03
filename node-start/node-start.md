@@ -7,9 +7,11 @@
 В процессе установки ничего менять не надо, все нужные компоненты уже выбраны. После выбора компонентов, инсталлятор предложит установку дополнительных инструментов, для базовой настройки и работы они не требуется, можно пропустить.
 
 Компоненты  
+
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/node-features.webp?raw=true)
 
 Дополнительные инструменты  
+
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/node-tools.webp?raw=true)
 
 Создать папку под проект.  
