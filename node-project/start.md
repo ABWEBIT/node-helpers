@@ -11,17 +11,17 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.webp?raw=true)
 
-В редакторе кода открыть терминал
+В редакторе кода открыть терминал.
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
 
-Проверить доступность NodeJS командой проверки версии
+Проверить доступность NodeJS командой проверки версии.
 ```
 node --version
 ```
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/node.webp?raw=true)
 
-В терминале выполнить команду инициализации  
+В терминале выполнить команду инициализации.
 ```
 npm init --yes
 ```
@@ -31,7 +31,7 @@ npm init --yes
 
 Nodemon - это инструмент, который автоматически перезапускает запущенное ранее приложение NodeJS при обнаружении изменений в файлах проекта. https://github.com/remy/nodemon  
 
-Установить Nodemon выполнив команду установки
+Установить Nodemon выполнив команду установки.
 ```
 npm install --global nodemon
 ```
@@ -106,7 +106,7 @@ server.listen(port, hostname, () => {
 });
 ```
 
-Последний этап - это запуск сервера, для этого надо выполнить команду
+Последний этап - это запуск сервера, для этого надо выполнить команду.
 ```
 npm start
 ```
