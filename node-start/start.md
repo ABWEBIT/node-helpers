@@ -9,17 +9,17 @@
 Создать папку под проект.  
 Открыть VS Code, кликнув по папке проекта правой кнопкой мышки и выбрав пункт "Open with Code".
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/vscode.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/vscode.webp?raw=true)
 
 В редакторе кода открыть терминал. Все последующие команды будем вводить в терминале.
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/terminal.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/terminal.webp?raw=true)
 
 Проверить доступность NodeJS можно командой проверки версии.
 ```
 node --version
 ```
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/node.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/node.webp?raw=true)
 
 Выполнить команду инициализации.
 ```
@@ -27,7 +27,7 @@ npm init --yes
 ```
 Приписка --yes автоматически ответит на все вопросы в процессе инициализации, изменить или дополнить информацию можно будет позже в файле package.json, который будет создан по окончанию процесса, он отвечает за хранение информации о проекте, пакетах, связках и тд.  
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/init.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/init.webp?raw=true)
 
 Nodemon - это инструмент, который автоматически перезапускает запущенное ранее приложение NodeJS при обнаружении изменений в файлах проекта. https://github.com/remy/nodemon  
 
@@ -41,7 +41,7 @@ npm install --global nodemon
 ```
 npm nodemon --version
 ```
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/nodemon.webp?raw=true)
 
 Открыть файл package.json и внести изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
@@ -82,7 +82,7 @@ npm nodemon --version
 
 Добавив строку "start": "nodemon index.mjs" мы сделали запуск nodemon командой npm start, теперь о Nodemon можно забыть.
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/package.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/package.webp?raw=true)
 
 ## Типы расширений  
 -> .js стандартное расширение JS, подходит для всего.  
@@ -114,7 +114,7 @@ npm start
 ```
 Если в терминале не будет сообщений о ошибках, а в браузере по адресу http://127.0.0.1:3000/ появится Hello World, то это будет значить, что запуск прошёл успешно.
 
-![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/server.webp?raw=true)
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/server.webp?raw=true)
 
 ## Полезные команды NPM
 <package_name> - заменяется названием пакета, без посторонних символов, например nodemoon.
