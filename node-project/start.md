@@ -22,7 +22,7 @@ npm init --yes
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/init.jpg?raw=true)
 
-Далее надо установить Nodemon. https://github.com/remy/nodemon  
+Установить Nodemon. https://github.com/remy/nodemon  
 
 Nodemon - это инструмент, который автоматически перезапускает запущенное ранее приложение NodeJS при обнаружении изменений в файлах проекта.  
 ```
@@ -36,7 +36,7 @@ npm nodemon --version
 ```
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-project/images/nodemon.jpg?raw=true)
 
-Далее надо открыть файл package.json и внести следующие изменения:  
+Открыть файл package.json и внести следующие изменения:  
 - в строке "main": "index.js" изменить расширение файла на mjs - "main": "index.mjs"
 - в блоке "scripts" добавить строку "start": "nodemon index.mjs"
 
@@ -80,7 +80,7 @@ npm nodemon --version
 .cjs - расширение для модульных систем JS, используется в серверных средах. (module.exports)  
 .mjs - расширение для модульных систем JS со стандартом ECMAScript, используется в серверных средах. (import / export)  
 
-Далее надо создать файл index.mjs в папке проекта и прописать в нём код запуска простого http сервера.  
+Создать файл index.mjs в папке проекта и прописать в нём код запуска простого http сервера.  
 Код стандартный, его разбирать не надо, можно взять готовый блок с сайта NodeJS. https://nodejs.org/
 
 ```
@@ -99,7 +99,7 @@ server.listen(port, hostname, () => {
 });
 ```
 
-Последний этап - это запуск сервера, для этого надо ввести команду
+Последний этап - это запуск сервера, для этого надо выполнить команду
 ```
 npm start
 ```
