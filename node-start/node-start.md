@@ -19,7 +19,7 @@
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/vscode.webp?raw=true)
 
-В редакторе кода открыть терминал. Все последующие команды будем вводить в терминале.
+В редакторе кода открыть терминал. Все последующие команды вводить в терминале.
 
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/node-start/images/terminal.webp?raw=true)
 
