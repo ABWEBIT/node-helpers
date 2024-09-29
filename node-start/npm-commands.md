@@ -33,6 +33,10 @@ npm update -g <package_name>
 ```
 npm update --save
 ```
+Обновление всех устаревших локальных пакетов, файл package.json будет автоматически обновлён
+```
+npm update --save-dev
+```
 Обновление всех устаревших глобальных пакетов
 ```
 npm update -g
