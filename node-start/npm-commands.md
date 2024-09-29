@@ -29,11 +29,11 @@ npm update <package_name> --save
 ```
 npm update -g <package_name>
 ```
-Обновление всех устаревших локальных пакетов, файл package.json будет автоматически обновлён
+Обновление всех устаревших локальных пакетов и записей в файле package.json (dependencies)
 ```
 npm update --save
 ```
-Обновление всех устаревших локальных пакетов, файл package.json будет автоматически обновлён
+Обновление всех устаревших локальных пакетов и записей в файле package.json (devDependencies)
 ```
 npm update --save-dev
 ```
