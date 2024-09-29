@@ -132,7 +132,7 @@ npm list
 ```
 Список всех глобальных пакетов
 ```
-npm list --global
+npm list -g
 ```
 Поиск устаревших локальных пакетов
 ```
@@ -140,7 +140,7 @@ npm outdated
 ```
 Поиск устаревших глобальных пакетов
 ```
-npm outdated --global
+npm outdated -g
 ```
 Обновление конкретного устаревшего локального пакета, файл package.json будет автоматически обновлён
 ```
@@ -148,7 +148,7 @@ npm update <package_name> --save
 ```
 Обновление конкретного устаревшего глобального пакета
 ```
-npm update --global <package_name>
+npm update -g <package_name>
 ```
 Обновление всех устаревших локальных пакетов, файл package.json будет автоматически обновлён
 ```
@@ -156,7 +156,7 @@ npm update --save
 ```
 Обновление всех устаревших глобальных пакетов
 ```
-npm update --global
+npm update -g
 ```
 Установка конкретного пакета, файл package.json будет автоматически обновлён
 ```
@@ -164,7 +164,7 @@ npm install <package_name>
 ```
 Установка конкретного пакета, как глобальный пакет, никаких изменений в package.json
 ```
-npm install --global <package_name>
+npm install -g <package_name>
 ```
 Удаление конкретного пакета, файл package.json будет автоматически обновлён
 ```
@@ -172,5 +172,9 @@ npm uninstall <package_name>
 ```
 Удаление конкретного устаревшего глобального пакета
 ```
-npm uninstall --global <package_name>
+npm uninstall -g <package_name>
+```
+Обновление глобального NPM пакета до последней версии
+```
+npm install npm@latest -g
 ```
