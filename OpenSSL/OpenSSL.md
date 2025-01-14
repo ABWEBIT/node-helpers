@@ -19,6 +19,7 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
 При установке, выбрать вариант с расположением DLL файлов в папке /bin.  
+
 ![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/bin.jpg?raw=true)  
 
 
