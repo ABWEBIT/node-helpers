@@ -15,10 +15,12 @@ https://wiki.openssl.org/index.php/Binaries
 
 ## Установка OpenSSL в Windows 11
 
-Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
-При установке будет предложен выбор с вариантами расположения DLL файлов.  
-Выбрать вариант с расположением DLL файлов в папке bin.  
 https://slproweb.com/products/Win32OpenSSL.html  
+
+Скачать последнюю версию OpenSSL Win64 Light (~5Mb) и установить.  
+При установке, выбрать вариант с расположением DLL файлов в папке /bin.  
+![image](https://github.com/ABWEBIT/Node-Helpers/blob/main/OpenSSL/images/bin.jpg?raw=true)  
+
 
 Чтобы OpenSSL работал из любого места в системе, надо добавить путь к OpenSSL в Environment Variables.  
 Открыть командную строку от имени Админа и ввести команду  
