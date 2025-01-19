@@ -47,13 +47,13 @@ rundll32.exe sysdm.cpl,EditEnvironmentVariables
 
 Генерируем "приватный ключ" (Private Key).  
 ```
-openssl genrsa -out key.pem 4096  
+openssl genrsa -out key.pem 4096
 ```
 
 Генерируем "запрос на подпись" (Certificate signing request / CSR).  
 При генерации будут заданы вопросы, их можно пропустить, создание пароля тоже можно пропустить.  
 ```
-openssl req -new -key key.pem -out csr.pem  
+openssl req -new -key key.pem -out csr.pem
 ```
 
 Генерируем "сертификат", кол-во дней (365) можно поменять.
