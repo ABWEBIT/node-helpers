@@ -53,10 +53,10 @@ openssl genrsa -out key.pem 4096
 Генерируем "запрос на подпись" (Certificate signing request / CSR).  
 При генерации будут заданы вопросы, их можно пропустить, создание пароля тоже можно пропустить.  
 ```
-openssl req -new -key key.pem -out csr.pem
+openssl req -new -key key.pem -out csr.pem -sha256
 ```
 
 Генерируем "сертификат", кол-во дней (365) можно поменять.
 ```
-openssl x509 -req -days 365 -in csr.pem -signkey key.pem -out crt.pem
+openssl x509 -req -days 365 -in csr.pem -signkey key.pem -out crt.pem -sha256
 ```
